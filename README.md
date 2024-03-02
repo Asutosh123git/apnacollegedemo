@@ -1,4 +1,4 @@
 # apnacollegedemo
 this is first git repisitory
 <br>
-author asutosh tripathy
+author asutosh tripathy(apna college)
